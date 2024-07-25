@@ -1,0 +1,50 @@
+nav
+{
+    padding: 10px 2%;
+    justify-content: space-between;
+    box-shadow: 0 0 10px rgba(185, 11, 11, 0.2);
+    background: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.nav-left .menu-icon
+{
+    width: 25px;
+    margin-bottom: 10px;
+    margin-right: 25px;
+}
+
+
+.logo
+{
+    width: 140px;
+}
+
+.nav-middle .search-box
+{
+    border: 2px solid #ccc;
+    margin-right: 15px;
+    padding: 8px 12px;
+    border-radius: 25px;
+}
+
+.nav-middle .search-box input
+{
+    width: 400px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+}
+
+.nav-middle .search-box img
+{
+    width: 16px;
+}
+
+.nav-right img
+{
+    width: 25px;
+    margin-right: 25px;
+}

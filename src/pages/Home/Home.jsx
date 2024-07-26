@@ -1,7 +1,12 @@
+import Sidebar from "../../Components/Sidebar/Sidebar";
 import "./Home.css";
 
 const Home = () => {
-  return <div>Home</div>;
+  return (
+    <div>
+      <Sidebar />
+    </div>
+  );
 };
 
 export default Home;
